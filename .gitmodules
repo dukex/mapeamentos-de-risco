@@ -1,0 +1,3 @@
+[submodule "registro-de-ocorrencia"]
+	path = registro-de-ocorrencia
+	url = git@github.com:emersonvinicius/registro-de-ocorrencia.git
